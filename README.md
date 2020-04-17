@@ -17,13 +17,13 @@ Install this starter by running
    ```
 ## Extra plugins used
 
-> * gatsby-plugin-antd (and antd)
+* gatsby-plugin-antd (and antd)
 
-> * emotion    (may be removed with some editing in `container.js`)
+* emotion    (may be removed with some editing in `container.js`)
 
 > * typography (to be removed)
 
-> * gatsby-plugin-offline (may be removed)
+* gatsby-plugin-offline (may be removed)
 
 
 
