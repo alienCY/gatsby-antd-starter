@@ -3,9 +3,9 @@
 It's a clone of the default gatsby starter but utilizing ant design (antd) components.
 Also feautruring a much cooler header and footer!
 
-## Check it out
+## Demo
 
-Take a look [here](https://gatsby-antd-starter.netlify.app/)!
+Check it out [here](https://gatsby-antd-starter.netlify.app/)
 
 ## Getting Started
 
@@ -17,8 +17,11 @@ Install this starter by running
 ## Extra plugins used
 
 > gatsby-plugin-antd (and antd)
+
 > emotion    (may be removed with some editing in `container.js`)
+
 > typography (to be removed)
+
 > gatsby-plugin-offline (may be removed)
 
 
