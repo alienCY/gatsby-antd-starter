@@ -43,7 +43,7 @@ const Container = ({ defKey, children }) => {
               <Link to="/page-2/">Page 2</Link>
             </Menu.Item>
             <Menu.Item key="2">
-              <Link to="/404/">nudes</Link>
+              <Link to="/404/">Secret page</Link>
             </Menu.Item>
           </Menu>
         </div>
