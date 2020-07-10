@@ -17,8 +17,10 @@ module.exports = {
     {
       resolve: "gatsby-plugin-less",
       options: {
-        javascriptEnabled: true,
-        modifyVars: lessToJson('src/theme/vars.less')
+        lessOptions: {
+          javascriptEnabled: true,
+          modifyVars: lessToJson('src/theme/vars.less'),
+        }
       }
     },
     {
